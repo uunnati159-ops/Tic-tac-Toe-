@@ -1,0 +1,6 @@
+{
+  "name": "SMARTPLAY – AI-Based Tic-Tac-Toe Game",
+  "description": "College-level AI mini project featuring a playable Tic-Tac-Toe game powered by the Minimax algorithm, comprehensive project report, algorithm guide, and viva Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
